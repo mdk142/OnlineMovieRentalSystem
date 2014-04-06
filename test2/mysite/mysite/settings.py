@@ -1,11 +1,11 @@
 """
-Django settings for OnlineMovieRentalSystem project.
+Django settings for mysite project.
 
 For more information on this file, see
-https://docs.djangoproject.com/en/1.6/topics/settings/
+https://docs.djangoproject.com/en/dev/topics/settings/
 
 For the full list of settings and their values, see
-https://docs.djangoproject.com/en/1.6/ref/settings/
+https://docs.djangoproject.com/en/dev/ref/settings/
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -14,10 +14,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 
 # Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
+# See https://docs.djangoproject.com/en/dev/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'gc%xl74u-v%(j!l$ecr-ls^qtd+_^x=wiezqh3@hoy0*mjsv3v'
+SECRET_KEY = 'ugyfudw@pjts@+wf9p_3!%-d@!)aonnk^9t#i79)4x3jbq#k6e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -36,7 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'main'
+    'myapp',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -48,31 +48,28 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'OnlineMovieRentalSystem.urls'
+ROOT_URLCONF = 'mysite.urls'
 
-WSGI_APPLICATION = 'OnlineMovieRentalSystem.wsgi.application'
+WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/1.6/ref/settings/#databases
+# https://docs.djangoproject.com/en/dev/ref/settings/#databases
 
 DATABASES = {
-    #'default': {
-    #    'ENGINE': 'django.db.backends.sqlite3',
-    #    'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    #}
     'default': {
         'ENGINE' : 'django.db.backends.oracle',
         'NAME' : 'orcl',
-        'USER' : '********',
-        'PASSWORD' : '************',
+        'USER' : 'kyuho',
+        'PASSWORD' : 'ZIkqbm2t',
         'HOST' : 'oracle.cise.ufl.edu',
         'PORT' : '1521',
     }
+
 }
 
 # Internationalization
-# https://docs.djangoproject.com/en/1.6/topics/i18n/
+# https://docs.djangoproject.com/en/dev/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
 
@@ -86,6 +83,6 @@ USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.6/howto/static-files/
+# https://docs.djangoproject.com/en/dev/howto/static-files/
 
 STATIC_URL = '/static/'

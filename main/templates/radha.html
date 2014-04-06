@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)http://cise.ufl.edu/~rkandula/dbms/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+<script src="./Rent - a - Movie_files/myscript.js"></script>
+<script src="./Rent - a - Movie_files/jquery.min.js"></script>
+<script src="./Rent - a - Movie_files/jquery-ui.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="./Rent - a - Movie_files/bootstrap.min.js"></script>
+<link rel="stylesheet" href="http://cise.ufl.edu/~rkandula/dbms/css/mystyle.css">
+
+
+  <title>Rent - a - Movie</title>
+  <script type="text/javascript">
+    //var lst=[];
+  </script>
+</head>
+<body style="">
+  <div class="container">
+    <div id="heroimg" class="row text-center">
+      <!--
+      <a class="" href="http://cise.ufl.edu/~rkandula/dbms/index.html#"> <img id="rentimg" style="" src="./radha/Rent-a-movie.png"></a>
+      -->
+      <a class="" href="."> <img id="rentimg" style="" src="Rent-a-movie.png"></a>
+    </div>
+
+    <div class="container" id="suggestion-thumbnails">
+      <div id="searchhome" class="row">
+        <form class="navbar-form text-center" accept-charset="utf-8" id="search-form" role="search" onsubmit="var lst=processQuery(this)" action="../submit/" method="post">{% csrf_token %}
+          <div class="form-group input-group-lg">
+            <!--
+            <input type="text" class="  form-control" id="id_searchtxt" name="searchtext" autocomplete="on" placeholder="Search our database">
+            -->
+        {{ form.searchtext.errors }}
+        <!--
+        <label for="id_searchtext">SearchText:</label>
+        -->
+            <input type="text" class="  form-control" id="id_searchtxt" name="searchtext" autocomplete="on" placeholder="Search our database">
+        {{ form.searchtext }}
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg" id="searchbtn"><span class="glyphicon glyphicon-search"></span> Search</button>
+        </form>
+      </div>
+
+
+{% if results %}
+    <ul>
+    {% for result in results %}
+        <li><a href="/radha/{{ result }}/">{{ result }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No results are available.</p>
+{% endif %}
+
+      <div id="suggestions-success" class="row text-center">
+        <h3>Our suggestions for you !</h3>
+      </div>
+
+      <div id="suggestions-failure" class="row text-center">
+        <h3>Sorry your search did not give any results !</h3>
+      </div>
+
+      <div class="row" id="thumbnail-grid">
+        <div class="col-sm-6 col-md-3" id="div1">
+          <a href="http://cise.ufl.edu/~rkandula/dbms/index.html#" class="thumbnail">
+            <img id="img1" src="./Rent - a - Movie_files/kittens.jpg" alt="Nothing to show here">
+          </a>
+        </div>
+        <div class="col-sm-6 col-md-3" id="div2">
+          <a href="http://cise.ufl.edu/~rkandula/dbms/index.html#" class="thumbnail">
+            <img id="img2" src="./Rent - a - Movie_files/kittens.jpg" alt="Nothing to show here">
+          </a>
+        </div>
+        <div class="col-sm-6 col-md-3" id="div3">
+          <a href="http://cise.ufl.edu/~rkandula/dbms/index.html#" class="thumbnail">
+            <img id="img3" src="./Rent - a - Movie_files/kittens.jpg" alt="Nothing to show here">
+          </a>
+        </div>
+        <div class="col-sm-6 col-md-3" id="div4">
+          <a href="http://cise.ufl.edu/~rkandula/dbms/index.html#" class="thumbnail">
+            <img id="img4" src="./Rent - a - Movie_files/kittens.jpg" alt="Nothing to show here">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+</body></html>

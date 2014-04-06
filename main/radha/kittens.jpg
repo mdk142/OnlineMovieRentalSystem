@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>CISE :: 404 Error</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/_style/css/basic.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/_style/css/print.css" />
+<style type="text/css" media="screen">
+@import "/_style/css/style.css";
+</style>
+</head>
+<body id="error">
+  <meta http-equiv="Content-Type" content="text/xhtml;charset=iso-8859-1"/>
+  <meta name="google-site-verification" content="5GNKTqO2BO8bniTNONQtvUTgp3TSXhdXqpGHls40ung" />
+  <title>University of Florida :: Department of Computer and Information Science and Engineering (CISE)</title>
+  <link href="/_style/css/basic.css" type="text/css" rel="stylesheet" media="screen"/>
+  <link href="/_style/css/print.css" type="text/css" rel="stylesheet" media="print"/>
+  <link href="/_style/css/style.css" type="text/css" rel="stylesheet" media="screen"/>
+  <link href="/_style/css/tabs.css" type="text/css" rel="stylesheet" media="screen"/>
+
+
+</head>
+
+<body id="index">
+<div id="header">
+	<h1 class="replace" id="logo"><a href="http://www.cise.ufl.edu/">Computer and Information Science and Engineering<span>&nbsp;</span></a></h1>
+	<h2 class="replace" id="unit"><a href="http://www.ufl.edu/">University of Florida<span>&nbsp;</span></a></h2>
+</div>
+<nav id="menu-wrap">    
+	<ul id="menu">
+		<li id="first-child">
+			<a href="http://cise.ufl.edu/about">About</a>
+			<ul>
+				<li>
+					<a href="/">Overview</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/about/employment/">Employment</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/pm/">Public Meetings</a>				
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/people/">People</a>
+					<ul>
+						<li>
+							<a href="http://cise.ufl.edu/people/administration/">Administration</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/people/faculty/">Faculty</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/people/staff/">Staff</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/people/users/">Students</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/people/advisors/">Advisors</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/academics/undergrad/organizations.shtml">Student Organizations</a>
+							<ul>
+								<li>
+									<a href="http://acm.cise.ufl.edu/">ACM</a>
+								</li>
+								<li>
+									<a href="http://dir.groups.yahoo.com/group/adammembers/">ADAM</a>
+								</li>
+								<li>
+									<a href="http://cise.ufl.edu/dept/ascie/">ASCIE</a>
+								</li>
+								<li>
+									<a href="http://www.ufbec.org/">BEC</a>
+								</li>
+								<li>
+									<a href="http://www.ufgau.org/">GAU</a>
+								</li>
+								<li>
+									<a href="http://www.shpeuf.com/">HES</a>
+								</li>
+								<li>
+									<a href="http://www.ufnsbe.org/">NSBE</a>
+								</li>
+								<li>
+									<a href="http://sites.google.com/site/sweufonline/">SWE</a>
+								</li>
+
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/news/">News</a>
+					<ul>
+						<li>
+							<a href="http://cise.ufl.edu/">Current News</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/seminars/">Events & Seminars</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/news/newsletters/">Newsletters</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/news/">Archive</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/research.shtml">Research</a>
+					<ul>
+						<li>
+							<a href="http://cise.ufl.edu/people/faculty/area.shtml">Research Areas</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/research.shtml">Centers & Labs</a>
+						</li>
+						<li>
+							<a href="http://cise.ufl.edu/tr/">Technical Reports</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="http://cise.ufl.edu/academics/">Academics</a>
+			<ul>
+				<li>
+					<a href="http://cise.ufl.edu/academics/undergrad/">Undergraduate</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/academics/grad/">Graduate</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/academics/courses/">Courses</a>
+				</li>
+
+			</ul>		
+		</li>
+		<li>
+			<a href="#">Admissions</a>
+			<ul>
+				<li>
+					<a href="http://cise.ufl.edu/admissions/undergrad">Undergraduate</a>
+				</li>
+			        <li>
+			                <a href="http://cise.ufl.edu/admissions/grad">Graduate</a>
+			        </li>
+			        <li>
+			                <a href="http://cise.ufl.edu/admissions/certificates/">Certificate Program</a>
+			        </li>
+			        <li>
+			                <a href="http://cise.ufl.edu/admissions/grad#distance/">Distance Education</a>
+			        </li>
+			</ul>
+		</li>
+		
+		<li>
+			<a href="http://cise.ufl.edu/help/">Help & Resources</a>
+			<ul>
+				<li>
+					<a href="http://cise.ufl.edu/help/index.shtml#pc">Computer Help</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/help/account.shtml">CISE Accounts</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/contact.shtml">Contact Us</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/administration/">Info for Faculty & Staff</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/help/CISE_RESOURCE_LIST.pdf">CISE Resources</a>
+				</li>
+				<li>
+					<a href="http://cise.ufl.edu/pq/">Print Queue Checker</a>
+				</li>
+			</ul>
+		</li>
+                <li>
+                        <a href="http://cise.ufl.edu/news/calendar">Calendars</a>
+			<ul>
+				<li>
+					<a href="http://cise.ufl.edu/news/calendar">Main Calendar</a>
+				</li>
+				<li>
+                                        <a href="http://cise.ufl.edu/help/access/">Labs</a>
+                                </li>
+                                <li>
+                                        <a href="http://cise.ufl.edu/confcalendar.shtml">Conference Rooms</a>
+                                </li>
+
+
+			</ul>
+		<li id="last-child">
+			<a href="http://cise.ufl.edu/careerworkshop/">Career Workshop (CDW)</a>
+			<ul>
+				<li><a href="http://cise.ufl.edu/careerworkshop/">About</a></li>
+				<li><a href="https://www.cise.ufl.edu/careerworkshop/companies/">Companies</a></li>
+				<li><a href="http://cise.ufl.edu/careerworkshop/students/">Students</a></li>
+			</ul>
+		</li>
+
+	</ul>
+</nav>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+		if ($.browser.msie && $.browser.version.substr(0,1)<7)
+		{
+		$('li').has('ul').mouseover(function(){
+			$(this).children('ul').css('visibility','visible');
+			}).mouseout(function(){
+			$(this).children('ul').css('visibility','hidden');
+			})
+		}
+
+		/* Mobile */
+		$('#menu-wrap').prepend('<div id="menu-trigger">Menu</div>');		
+		$("#menu-trigger").on("click", function(){
+			$("#menu").slideToggle();
+		});
+
+		// iPad
+		var isiPad = navigator.userAgent.match(/iPad/i) != null;
+		if (isiPad) $('#menu ul').addClass('no-transition');      
+    });          
+</script>
+
+
+
+
+
+
+<div id="mainContainer">
+	<div id="content">
+		<h2 id="secHeader" title="CISE"><a href="/"><span></span>CISE</a></h2>
+		<h2>Error 404</h2>
+		<p><code>cise.ufl.edu/bootstrap/images/kittens.jpg</code></p>
+		<p>The CISE Web Server was unable to find the resource you have requested.
+			With ongoing revisions of the CISE Web Site, the requested URL may have changed
+			to a new location or may no longer exist on the server.</p>
+		<p>If the page you were looking for is the property of a local user (denoted
+			by a "<em>~&lt;username&gt;</em>" in the URL), you should contact that user
+			concerning the problem. To do this, send email to <b><em>&lt;username&gt;</em>@cise.ufl.edu</b>.
+			Please do NOT send email to webmaster about these problems as the webmaster
+			has no control over this content.</p>
+		<p>If you arrived at this page by typing in a URL, please double check the
+			capitalization and spelling of the URL you have typed.</p>
+		<p>The page you seek may be unavailable due to transient system problems.
+			If you have not found the page by other means, please try again later.</p>
+		<p>If you arrived at this page by clicking a link on a CISE Department Web
+			Page, please report the bug with mail to
+			<script language="JavaScript" type="text/javascript">
+				 <!--
+				 var name = "webmaster";
+				 var domain = "cise.ufl.edu";
+				 document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+				 document.write(name + "@" + domain + '</a>');
+				 // -->
+			 </script>
+			. Please <b>specify the URL</b> and link details of the page that brought
+			you here.</p>
+		</ul>
+		<p>If you have exhausted the above options, or if you require help, feel free
+			to send mail to
+			<script language="JavaScript" type="text/javascript">
+				 <!--
+				 var name = "webmaster";
+				 var domain = "cise.ufl.edu";
+				 document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+				 document.write(name + "@" + domain + '</a>');
+				 // -->
+			 </script>
+			.</p>
+	</div>
+		<div id="footer">
+			<div id="footlinks">
+			<h3>Frequently Used Sites</h3>
+				<ul>
+					<li><a href="http://news.ufl.edu/">News</a></li>
+					<li><a href="http://calendar.ufl.edu/">Calendar</a></li>
+					<li><a href="http://directory.ufl.edu/">Directory</a></li>
+					<li><a href="https://my.ufl.edu/ps/signon.html">MyUFL</a></li>
+					<li><a href="http://www.isis.ufl.edu/">ISIS</a></li>
+					<li><a href="http://www.ufl.edu/websites/">Web Site Listing</a></li>
+					<li><a href="http://campusmap.ufl.edu/">Campus Map</a></li>
+					<li><a href="https://webmail.cise.ufl.edu">WebMail</a></li>
+				</ul>
+			</div>
+			<p>&copy; <a href="http://www.cise.ufl.edu/" title="University of Florida Department of Computer &amp; Information Science &amp; Engineering">Department of Computer &amp; Information Science &amp; Engineering</a>&nbsp;<a href="http://www.ufl.edu" id="footerHome" title="University of Florida"><span>&nbsp;</span></a><br />E301 CSE Building, PO Box 116120, Gainesville, FL 32611; (352) 392-1200.</p>	       
+			<div id="footinfo">	
+				<h3>General Site Information</h3>
+				<ul>
+					<li><a href="http://www.ufl.edu/disability/">Disability Services</a></li>
+					<li><a href="http://privacy.ufl.edu/privacystatement.html">Privacy Policy</a></li>
+					<li><a href="http://privacy.ufl.edu/SSNPrivacy.html">Social Security Number Privacy</a></li>
+					<li><a href="http://search.ufl.edu">Search</a></li>
+				</ul>
+			</div>
+			<p>This page uses <a href="http://www.google.com/analytics/">Google Analytics</a> (<a href="http://www.google.com/intl/en_ALL/privacypolicy.html">Google Privacy Policy</a>)</p>
+
+			<p>This page was last updated May. 31, 2013.
+</p>
+		</div>
+		<div id="headerShadow"></div>
+
+<script type="text/javascript" src="/_includes/js/breadcrumb.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3049930-1']);
+  _gaq.push(['_setDomainName', '.cise.ufl.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="/_includes/js/awst.js"></script>
+	<style type="text/css" media="screen">
+		
+		#slideout {
+			position: fixed;
+			top: 130px;
+			right: 0;
+			width: 35px;
+			padding: 12px 1px;
+			text-align: center;
+			background: #333333;
+			-webkit-transition-duration: 0.3s;
+			-moz-transition-duration: 0.3s;
+			-o-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			-webkit-border-radius: 5px 0 0 5px;
+			-moz-border-radius: 5px 0 0 5px;
+			border-radius: 5px 0 0 5px;
+		}
+		#slideout_inner {
+			position: fixed;
+			top: 130px;
+			right: -300px;
+			background: #333333;
+			width: 250px;
+			padding: 25px;
+			height: 46px;
+			-webkit-transition-duration: 0.3s;
+			-moz-transition-duration: 0.3s;
+			-o-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			text-align: left;
+			-webkit-border-radius: 0 0 0 0;
+			-moz-border-radius: 0 0 0 0;
+			border-radius: 0 0 0 0;
+		}
+		#slideout_inner textarea {
+			width: 190px;
+			height: 100px;
+			margin-bottom: 6px;
+		}
+		#slideout:hover {
+			right: 300px;
+		}
+		#slideout:hover #slideout_inner {
+			right: 0;
+		}
+		
+	</style>
+<div id="slideout">
+	<img src="/_style/images/search.png" alt="Feedback" />
+	<div id="slideout_inner">
+		<div id="search" style="width:300px;padding: 0 0 0 0;height=45px;margin-top:-20px;position:relative">
+			<script>
+			(function() {
+				var cx = '012451277572368985970:p4wlvcd4gci';
+				var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+				gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +'//www.google.com/cse/cse.js?cx=' + cx;
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+			})();
+			</script>
+			<gcse:search></gcse:search>
+		</div>
+	</div>
+</div>
+
+
+</div>
+</body>
+</html>
