@@ -1,0 +1,24 @@
+#searchtxt
+{
+  width: 300px;
+  color:cadetblue;
+  border-color: cadetblue;
+}
+
+#suggestions-success
+{
+  position:relative;
+  display:none;
+}
+
+#suggestions-failure
+{
+  position:relative;
+  display:none;
+}
+
+#thumbnail-grid
+{
+  position:relative;
+  display:none;
+}
